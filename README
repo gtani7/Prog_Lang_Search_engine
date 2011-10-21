@@ -1,0 +1,11 @@
+README
+
+Raw datasets for h4DEV.com's language search databases are XLS MS Excel files, .8 MB and up
+================
+This Creative Commons Data Dump is licensed under the Creative Commons Attribution Share Alike license. By downloading The Creative Commons Data Dump, You agree to be bound by the terms of that license.
+================
+When new releases of datasets are ready I'll delete old git repo and make new one, I'm not going to mess with removing the old physical files and rewriting history. 
+==========================
+To collapse/uncollapse rows in MS Excel and LibreOffice spreadsheets, click on the small #1 and #2 boxes at very top of column that shows row numbers.  File doesn’t open cleanly in LibreOffice (required a file Recovery) but seems to work ok after that.
+===============
+To uncollapse rows in OS X Numbers spreadsheet, hover mouse cursor over any column number on the left and click the down arrow that appears to the right.
